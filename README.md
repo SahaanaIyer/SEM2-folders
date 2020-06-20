@@ -1,2 +1,2 @@
 # SEM3-folders
-This repository contains SEM3 Codes including Data Structures and OOPM (Java programming language)
+Practical exam codes of MU Computer Science Engneering SEM3 of Data Structures and OOPM (Java programming language)
